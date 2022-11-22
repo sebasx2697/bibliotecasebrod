@@ -1,0 +1,13 @@
+header{
+    height: 200px; 
+    text-align: center; 
+    background-color: rgb(62, 117, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: white; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 26px;
+}

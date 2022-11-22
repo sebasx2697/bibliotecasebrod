@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 400px;
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
+#iniciosesion{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(../img/library-g48670ab7a_1920.jpg);
+    height: 400px;
+}
+#iniciosesion div{
+    border: 0.5px solid;
+    justify-content: center;
+    height: 300px;
+    width: 200px;
+    background-color: white;
+    border-radius: 12px;
+    background-color: rgb(253, 250, 225);
+}
+#abc{
+    border: 2px solid;
+    height: 300px;
+    width: 200px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imagen{
+
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#imageniniciosesion{
+    margin-left: 40%;
+    margin-top: 20px;
+    height: 50px;
+    width: 50px;
+    border: 2px solid;
+    border-radius: 55px;
+   
+}
+a{
+    margin-left: 23%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+#usuario{
+    margin-left: 8%;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+#password{
+    margin-left: 8%;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+#recordarus{
+    margin-left: 16%;
+    margin-bottom: 20px;
+    float: left;
+
+}
+#ingresar{
+    margin-left: 36%;
+    margin-top: 20px;
+}
+img{
+    height: 400px;
+    width: 700px;
+}
+#registro{
+    font-size: 10px;
+    margin-left: 15%;
+}
+#r3{
+    margin-top: 1px;
+    margin-left: 12px;
+    font-size: 10px;
+}
+button{
+    margin-top: 15px;
+    margin-left: -5px;
+    background-color: bisque;
+    border: 1px solid gray;
+    width: 80px;
+    height: 20px;
+    border-radius: 5px;
+    margin-right: 0px;
+}
+#textoingresar{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+

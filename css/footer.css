@@ -1,0 +1,13 @@
+footer{
+    height: 140px; 
+    text-align: center; 
+    background-color: rgb(62, 117, 220);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    color: black; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+}

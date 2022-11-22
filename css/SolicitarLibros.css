@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 400px;
+
+}
+#superior{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 70% 5% 25%;
+
+}
+#superiorderecho h3{
+    font-size: 26px;
+}
+
+
+#inferior{
+    height: 300px;
+
+    display: grid;
+    grid-template-columns: auto;
+
+}
+#inferior1{
+    height: 50px;
+
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+#documento{
+    margin-left: 132px;
+    font-size: medium;
+}
+
+#inferior3{
+    height: 236px;
+
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    margin-left: 20px;
+    font-size: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+a{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 8px;
+}
+
+#superior h3{
+    margin-left: 132px;
+}
+img{
+    height: 39.5px;
+    width: 39.5px;
+    border: 2px solid gold;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#superiorizquierdo{
+    
+    height: 100px;
+}
+#superiorizquierdo img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+input{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+}
+label{
+    float: right;
+}
+select{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+}
+.superiorizquierdo2 form{
+    margin-top: 20px;
+}
+.superiorizquierdo2{
+    
+    height: 100px;
+}
+#tabla h3{
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 8px;
+}
+#titulostabla h3{
+    font-size: 10px;
+}
+#acciones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+.menu{
+    font-size: 12px;
+}

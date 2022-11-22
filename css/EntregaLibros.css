@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 400px;
+
+}
+#superior{
+    height: 100px;
+    display: flex;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 70% 5% 25%;
+
+}
+#superiorderecho h3{
+    font-size: 26px;
+}
+.Titulostabla h3{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#inferior{
+    height: 300px;
+
+    display: grid;
+    grid-template-columns: auto;
+
+}
+#inferior1{
+    height: 50px;
+
+    width: auto;
+    display: flex;
+    align-items: center;
+}
+#documento{
+    margin-left: 132px;
+    font-size: medium;
+}
+#inferior2{
+    height: 50px;
+
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inferior3{
+    height: 186px;
+
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    margin-left: 20px;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+a{
+    margin-left: 20px;
+}
+
+#superior h3{
+    margin-left: 132px;
+}
+img{
+    height: 39.5px;
+    width: 39.5px;
+    border: 2px solid gold;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#superiorizquierdo{
+    
+    height: 100px;
+}
+#superiorizquierdo img{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+input{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+}
+label{
+    float: right;
+}
+select{
+    margin-top: 3px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+}
+.superiorizquierdo2 form{
+    margin-top: 20px;
+}
+.superiorizquierdo2{
+    
+    height: 100px;
+}
+nav{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+a{
+    font-size: small;
+}
